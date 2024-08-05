@@ -1,0 +1,9 @@
+local confilck:-
+.
+.
+Sttudents name:
+1.Prithika sri
+2. Naresh
+3. Kishore
+4. nila
+5. Sangeetha
